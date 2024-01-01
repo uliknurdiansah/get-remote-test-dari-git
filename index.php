@@ -10,6 +10,12 @@
 <body>
     <h1>uji coba git comit dari git</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum cupiditate recusandae placeat et consequatur non libero amet animi nihil harum voluptatem, laudantium blanditiis mollitia numquam voluptates voluptatibus fugiat neque sint.</p>
+
+<ul>
+<li>satu</li>
+<li>dua</li>
+<li>tiga</li>
+</ul>
 </body>
 
 </html>
